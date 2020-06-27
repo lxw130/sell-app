@@ -10,7 +10,7 @@
       status-icon
     >
       <!-- 账号 -->
-      <el-form-item label="修改" prop="account">
+      <el-form-item label="修改第二次的" prop="account">
         <el-input
           prefix-icon="iconfont icon-icon_account"
           v-model="loginForm.account"
